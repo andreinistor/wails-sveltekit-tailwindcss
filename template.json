@@ -1,0 +1,7 @@
+{
+  "name": "Wails + SvelteKit + TailwindCSS",
+  "shortname": "wails-sveltekit-tailwind",
+  "author": "Andrei Nistor",
+  "description": "Use Wails with the last version of SvelteKit and TailwindCSS",
+  "helpurl": "github.com/andreinistor/wails-sveltekit-tailwind"
+}
