@@ -14,7 +14,7 @@ import (
 //go:embed frontend/build/*
 var assets embed.FS
 
-//go:embed build/appicon.png
+//go:embed frontend/static/favicon.png
 var icon []byte
 
 func main() {
